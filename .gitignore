@@ -44,3 +44,8 @@ ClaudoscopeTests/SecretDetectionTests.swift
 # User-submitted diagnostics bundles
 claudoscope-diag-*.tar.gz
 claudoscope-diag-*/
+config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
